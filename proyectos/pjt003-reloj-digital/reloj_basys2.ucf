@@ -1,0 +1,16 @@
+NET  "clk"         LOC = "B8";
+NET  "reset"       LOC = "G12";
+# Segmentos del visualizador. #########
+NET  "salida<7>"   LOC = "N13"; # dp
+NET  "salida<6>"   LOC = "M12"; # g
+NET  "salida<5>"   LOC = "L13"; # f
+NET  "salida<4>"   LOC = "P12"; # e
+NET  "salida<3>"   LOC = "N11"; # d
+NET  "salida<2>"   LOC = "N14"; # c
+NET  "salida<1>"   LOC = "H12"; # b
+NET  "salida<0>"   LOC = "L14"; # a
+# Multiplexor #########################
+NET  "MUX<3>"      LOC = "F12";
+NET  "MUX<2>"      LOC = "J12";
+NET  "MUX<1>"      LOC = "M13";
+NET  "MUX<0>"      LOC = "K14";

@@ -1,0 +1,20 @@
+NET  "clk"         LOC = "B8";
+NET  "reset"       LOC = "G12";
+# Señal de reloj de salida ############
+#   Se puede asignar a un LED o a un 
+#   pin para ver señal en osciloscopio.
+#NET  "clk_out"     LOC = "M5"; # LED.
+NET  "clk_out"     LOC = "B2"; # Pin.
+# Entrada de BPM ######################
+#   Sólo se usan 8 bits de dirección
+#   debido a limitaciones en botones 
+#   en la tarjeta Basys2.
+NET  "addr<0>"     LOC = "P11";
+NET  "addr<1>"     LOC = "L3";
+NET  "addr<2>"     LOC = "K3";
+NET  "addr<3>"     LOC = "B4";
+NET  "addr<4>"     LOC = "G3";
+NET  "addr<5>"     LOC = "F3";
+NET  "addr<6>"     LOC = "E2";
+NET  "addr<7>"     LOC = "N3";
+NET  "clk_out"     LOC = "M5";

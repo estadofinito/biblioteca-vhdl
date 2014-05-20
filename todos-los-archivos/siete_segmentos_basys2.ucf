@@ -1,0 +1,16 @@
+# Entrada de datos. ###################
+NET  "entrada<5>"  LOC = "F3";
+NET  "entrada<4>"  LOC = "G3";
+NET  "entrada<3>"  LOC = "B4";
+NET  "entrada<2>"  LOC = "K3";
+NET  "entrada<1>"  LOC = "L3";
+NET  "entrada<0>"  LOC = "P11";
+# Segmentos del visualizador. #########
+NET  "salida<7>"   LOC = "N13"; # dp
+NET  "salida<6>"   LOC = "M12"; # g
+NET  "salida<5>"   LOC = "L13"; # f
+NET  "salida<4>"   LOC = "P12"; # e
+NET  "salida<3>"   LOC = "N11"; # d
+NET  "salida<2>"   LOC = "N14"; # c
+NET  "salida<1>"   LOC = "H12"; # b
+NET  "salida<0>"   LOC = "L14"; # a
