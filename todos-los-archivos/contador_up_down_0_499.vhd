@@ -1,9 +1,9 @@
 ----------------------------------------------------------------------------------
--- Compaa:             Estado Finito
+-- Compañía:           Estado Finito
 -- Ingeniero:          Carlos Ramos
 -- 
--- Fecha de creacin:   2014/05/20 15:32:00
--- Nombre del mdulo:   contador_up_down_0_511 - Behavioral 
+-- Fecha de creación:   2014/05/20 15:32:00
+-- Nombre del módulo:   contador_up_down_0_511 - Behavioral 
 -- Comentarios adicionales: 
 --   Contador de 9 bits (de 0 a 499), con valor después del reset igual a 59, y
 --   con dos entradas: una para marcar incremento y otra para marcar decremento.
