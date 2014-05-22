@@ -1,6 +1,7 @@
 Proyectos
 =====
 
+* Metrónomo de 1 a 500 BPM, con cambio de frecuencia con dos botones.
 * Convertidor de binario de 9 bits a BCD y siete segmentos.
 * Divisor de frecuencia variable de 1 a 512BPM implementado con ROM.
 * Controlador para servomotor con rango de operación de 0.5 a 2.5ms con dos botones.

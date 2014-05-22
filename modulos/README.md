@@ -1,6 +1,7 @@
 Módulos
 =====
 
+* Contador de 0 a 499 con dos botones.
 * Convertidor de binario de 9 bits a BCD de 11 bits (3 dígitos).
 * Divisor de frecuencia con entrada para escala.
 * ROM de 512 localidades de 28 bits.

@@ -1,0 +1,20 @@
+NET  "clk"         LOC = "B8";
+NET  "reset"       LOC = "G12";
+NET  "btn_inc"     LOC = "M4";
+NET  "btn_dec"     LOC = "C11";
+# Segmentos del visualizador. #########
+NET  "d7s<7>"   LOC = "N13"; # dp
+NET  "d7s<6>"   LOC = "M12"; # g
+NET  "d7s<5>"   LOC = "L13"; # f
+NET  "d7s<4>"   LOC = "P12"; # e
+NET  "d7s<3>"   LOC = "N11"; # d
+NET  "d7s<2>"   LOC = "N14"; # c
+NET  "d7s<1>"   LOC = "H12"; # b
+NET  "d7s<0>"   LOC = "L14"; # a
+# Multiplexor #########################
+NET  "MUX<3>"      LOC = "F12";
+NET  "MUX<2>"      LOC = "J12";
+NET  "MUX<1>"      LOC = "M13";
+NET  "MUX<0>"      LOC = "K14";
+# Salida del metrónomo ################
+NET  "clk_out"     LOC = "M5";

@@ -44,6 +44,7 @@ Los componentes que actualmente se encuentran en el repositorio, por orden crono
 
 ### Proyectos
 
+* Metrónomo de 1 a 500 BPM, con cambio de frecuencia con dos botones.
 * Convertidor de binario de 9 bits a BCD y siete segmentos.
 * Divisor de frecuencia variable de 1 a 512BPM implementado con ROM.
 * Controlador para servomotor con rango de operación de 0.5 a 2.5ms con dos botones.
@@ -56,6 +57,7 @@ Los componentes que actualmente se encuentran en el repositorio, por orden crono
 
 ### Módulos
 
+* Contador de 0 a 499 con dos botones.
 * Convertidor de binario de 9 bits a BCD de 11 bits (3 dígitos).
 * Divisor de frecuencia con entrada para escala.
 * ROM de 512 localidades de 28 bits.
